@@ -18,6 +18,4 @@ I have made my own ERC20 token in this project using solidity. I have added its 
 
 ## Authors
 
-Contributors names and contact info
-
 Hardik Aggarwal (https://github.com/Hardik329)
